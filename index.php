@@ -3,13 +3,13 @@
 include_once 'db.class.php';
 
 // хост БД
-define('db_host','localhost');
+define('db_host','localhost:3306');
 
 // Имя БД
 define('db_name','dashurja');
 
 // Пользователь БД
-define('db_user','root');
+define('db_user','admin');
 
 // Пароль БД
 define('db_pass','admin_password');
